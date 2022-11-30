@@ -3,7 +3,6 @@ import Moment from "react-moment";
 import toast, { Toaster } from 'react-hot-toast';
 import moment from "moment";
 import { Link } from "react-router-dom";
-import '../../components/bootstrap.min.css'
 import style from './homepage.module.css'
 
 export default function (props) {
